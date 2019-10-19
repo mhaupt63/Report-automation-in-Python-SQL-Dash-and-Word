@@ -1,4 +1,4 @@
-# Report-automation-in-Python-SQL-DASh-and-Word
+# Report-automation-in-Python-SQL-DASH-and-Word
 Here is a summary of a private project I did for my employer Commonwealth Bank.
 
 I wrote a Python program that automates the creation of a printable report in Microsoft Word, and also an online interactive version in Plotly/Dash.  The report relates to technology risk Risk Appetite metrics.
